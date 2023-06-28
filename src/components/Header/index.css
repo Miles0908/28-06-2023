@@ -1,0 +1,20 @@
+.Header{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: rgba(128, 0, 128, 0.758);
+    border-radius: 12px;
+    box-shadow: 0 0 4 wheat;
+
+}
+.Header img{
+    position: absolute;
+    left: 0px;
+    padding: 0 10px;
+    width: 40px;
+    height: 40px;
+    background-color:transparent;
+    box-shadow: 0 0 4 purple;
+    border-radius: 50%;
+}
